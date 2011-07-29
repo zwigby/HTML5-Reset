@@ -3,7 +3,7 @@
 
 
 /* trigger when page is ready */
-$(document).ready(function (){
+$(function (){
 
 	// your functions go here
 
