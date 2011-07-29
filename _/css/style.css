@@ -69,7 +69,6 @@ pre {
 
 input[type="radio"] {vertical-align: text-bottom;}
 input[type="checkbox"] {vertical-align: bottom; *vertical-align: baseline;}
-.ie6 input {vertical-align: text-bottom;}
 
 select, input, textarea {font: 99% sans-serif;}
 
@@ -119,7 +118,6 @@ button {width: auto; overflow: visible;}
 .clearfix { zoom: 1; }  
 
 
-
 /* Ok, this is where the fun starts.
 -------------------------------------------------------------------------------*/
 
@@ -147,12 +145,9 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 
 
 
-
-
 /* Print styles!
 -------------------------------------------------------------------------------*/
 @media print {
-
 
 
 }
@@ -163,7 +158,6 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 
 /* Consider this: www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/ */
 @media screen and (max-device-width: 480px) {
-	
 		
 }
 
